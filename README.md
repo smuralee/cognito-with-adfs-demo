@@ -1,2 +1,2 @@
-# cognito-with-adfs-demo
-Using Cognito with ADFS
+# AWS Cognito Integration with ADFS
+AWS Cognito example for SAML-based IdP (ADFS) integration with UserPool
